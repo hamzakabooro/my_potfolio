@@ -16,9 +16,9 @@ const Skills = () => {
                         <h2>TYPSCRIPT</h2>
                     </div>
                     <div className='space-y-2'>
-                        <h2>Tailwind CSS Ongoing</h2>
-                       <h2>react.js Ongoing</h2>
-                        <h2>Next.js Ongoing</h2>
+                        <h2>Tailwind CSS </h2>
+                       <h2>react.js </h2>
+                        <h2>Next.js </h2>
                         </div>
                 
              </div>
