@@ -10,7 +10,7 @@ const Hero = () => {
         <div className='text-[100px] sm:text-[80px] font-bold leading-tight flex justify-center items-center'>
 
           <div>
-            <p>I'm</p>
+            <p>Im</p>
             <p>Hamza</p>
             <p>khan</p>
           </div>
